@@ -756,7 +756,7 @@ a {
 .service-card {
   border-radius: 12px;
 }
-.icon-box {
+.service-card .icon-box {
   background: #ede9fe;
   padding: 15px 10px;
   border-radius: 5px;
